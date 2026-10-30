@@ -4,8 +4,6 @@
 
 End-to-end sales analysis of a simulated Kerala FMCG dataset (5,000 invoices, 13 brands, 14 districts) using **Python, SQL (MySQL) and Power BI**.
 
-> **Note:** The data is simulated, so the findings demonstrate the analysis method and should not be read as real market facts.
-
 ## Objective
 Find out which brands, products, districts, channels, customers and months drive sales, and where discounts and growth opportunities lie.
 

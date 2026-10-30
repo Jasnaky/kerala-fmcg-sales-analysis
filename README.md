@@ -1,5 +1,7 @@
 # Kerala FMCG Sales Analysis, 2025
 
+> **Note:** The dataset used in this project is synthetic (simulated) and was generated for portfolio and learning purposes. It does not represent real sales figures, and the insights should not be read as findings about the actual Kerala FMCG market.
+
 End-to-end sales analysis of a simulated Kerala FMCG dataset (5,000 invoices, 13 brands, 14 districts) using **Python, SQL (MySQL) and Power BI**.
 
 > **Note:** The data is simulated, so the findings demonstrate the analysis method and should not be read as real market facts.

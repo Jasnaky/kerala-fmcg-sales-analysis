@@ -97,5 +97,4 @@ Downloads: [Dashboard PDF](powerbi/Kerala_FMCG_Dashboard.pdf) | [Power BI file (
 Python (pandas, NumPy, Matplotlib), SQL (MySQL 8.0), Power BI, Jupyter Notebook
 
 ## Author
-**Jasna KY**, Data Analyst
-[LinkedIn](www.linkedin.com/in/jasna-ky-3a04623a7) | [GitHub](https://github.com/Jasnaky)
+**Jasna KY**, Data Analyst [LinkedIn](https://www.linkedin.com/in/jasna-ky-3a04623a7) | [GitHub](https://github.com/Jasnaky)
